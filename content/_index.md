@@ -25,10 +25,10 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Assistant of A*star
+        - title: Research Assistant
           company: A*star I2R
           company_url: 'https://www.a-star.edu.sg/i2r'
-          company_logo: org-gc
+          company_logo: astar
           location: Singapore
           date_start: '2023-07-01'
           date_end: ''
@@ -51,7 +51,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: False
     design:
       columns: '2'
       view: citation
