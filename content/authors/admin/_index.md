@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qiyu Wei 魏启宇666
+title: Qiyu Wei 魏启宇
 
 # Full name (for SEO)
 first_name: Qiyu
