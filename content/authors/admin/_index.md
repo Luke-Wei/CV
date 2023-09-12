@@ -71,5 +71,5 @@ email: 'qywei@shu.edu.cn'
 highlight_name: true
 ---
 
-Qiyu Wei is a Master student of artificial intelligence in semiconducter at the Shanghai University  AI in semiconducter Lab. His research interests include Defect detection, 3D deep learning and Bayesian Optimization. He is currently working as a research assistant at the Institute of Inforcom Research, A*Star.
+Qiyu Wei is a Master student of artificial intelligence in semiconductor at the Shanghai University  AI in semiconductor Lab. His research interests include Defect detection, 3D deep learning and Bayesian Optimization. He is currently working as a research assistant at the Institute of Inforcom Research, A*Star.
 {style="text-align: justify;"}
