@@ -14,6 +14,7 @@ sections:
       username: admin
 
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -42,6 +43,7 @@ sections:
       columns: '1'
 
   - block: collection
+    id: collection
     content:
       title: Recent Publications
       text: |-
@@ -60,6 +62,7 @@ sections:
 
 
   - block: accomplishments
+    id: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -105,7 +108,7 @@ sections:
 
 
 
-
+      
   # - block: collection
   #   id: posts
   #   content:

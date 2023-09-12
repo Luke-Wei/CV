@@ -20,7 +20,7 @@ main:
     weight: 30
 
   - name: Accomplish­ments
-    url: '#pccomplishments'
+    url: '#accomplishments'
     weight: 40
 
   # - name: Posts
