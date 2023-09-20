@@ -47,16 +47,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/qywei@shu.edu.cn'
+    link: 'qywei@shu.edu.cn'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/
+    link: https://scholar.google.com/citations?user=jPbsQvYAAAAJ&hl=zh-TW/
   - icon: github
     icon_pack: fab
     link: https://github.com/Luke-Wei
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
