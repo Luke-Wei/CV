@@ -38,7 +38,7 @@ sections:
 
               * Semi-supervised algorithm in semiconductor defect detection
               * 3D machine learning in semiconductor data
-            
+  
     design:
       columns: '1'
 
@@ -78,6 +78,22 @@ sections:
 
         - 
           date_end: ''
+          date_start: '2024-02-01'
+          description: 'Distinguished Graduate of Shanghai'
+          organization: Shanghai University
+          organization_url: https://sme.shu.edu.cn/index.htm
+          title: Distinguished Graduate of Shanghai
+          url: https://sme.shu.edu.cn/index.htm
+        - 
+          date_end: ''
+          date_start: '2023-11-01'
+          description: 'National Scholarship'
+          organization: Ministry of Education
+          organization_url: https://sme.shu.edu.cn/info/1030/3802.htm
+          title: National Scholarship
+          url: https://sme.shu.edu.cn/info/1030/3802.htm
+        - 
+          date_end: ''
           date_start: '2022-04-01'
           description: ' Rank:5/465'
           organization: Baidu aistudio / Paddle
@@ -108,7 +124,7 @@ sections:
 
 
 
-      
+  
   # - block: collection
   #   id: posts
   #   content:
@@ -136,6 +152,4 @@ sections:
   #     # Choose a layout view
   #     view: compact
   #     columns: '2'
-
-
 ---
