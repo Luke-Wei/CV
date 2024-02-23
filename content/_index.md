@@ -32,15 +32,27 @@ sections:
           company_logo: astar
           location: Singapore
           date_start: '2023-07-01'
-          date_end: ''
+          date_end: '2024-01-01'
           description: |2-
               Research Interests include:
 
               * Semi-supervised algorithm in semiconductor defect detection
               * 3D machine learning in semiconductor data
-  
+
+        - title: Remote Intern
+          company: NUS ISE
+          company_url: 'https://cde.nus.edu.sg/isem/'
+          company_logo: NUS
+          location: Singapore
+          date_start: '2022-02-01'
+          date_end: ''
+          description: |2-
+              Research Interests include:
+
+              * Bayesian Optimization
+ 
     design:
-      columns: '1'
+      columns: '2'
 
   - block: collection
     id: collection
