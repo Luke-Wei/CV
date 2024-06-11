@@ -69,5 +69,5 @@ email: 'qywei@shu.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Qiyu Wei is a Master student of artificial intelligence at the Shanghai University. His research interests include Defect detection, 3D deep learning and Bayesian Optimization. He has worked as a research assistant at the Institute of Inforcom Research, A*Star for half a year in 2023.
+Qiyu Wei is a Master student at Shanghai University. His research interests include 3D deep learning and Bayesian Optimization. He has worked as a research assistant at the Institute of Inforcom Research, A*Star for half a year in 2023.
 {style="text-align: justify;"}
