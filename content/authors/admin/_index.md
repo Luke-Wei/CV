@@ -26,17 +26,16 @@ bio: My research interests include AI in semiconductor, 3D deep learning and Bay
 
 # Interests to show in About widget
 interests:
-  - AI in semiconductor
   - 3D deeplearning
   - Bayesian optimisation
 
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Microelectronics and Solid State Electronics
+    - course: MEng 
       institution: Shanghai University
       year: Expected 2024
-    - course: BSc in Communication Engineering
+    - course: BSc
       institution: Nanjing University of Posts and Telecommunications
       year: 2021
 
@@ -70,5 +69,5 @@ email: 'qywei@shu.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Qiyu Wei is a Master student of artificial intelligence in semiconductor at the Shanghai University  AI in semiconductor Lab. His research interests include Defect detection, 3D deep learning and Bayesian Optimization. He has worked as a research assistant at the Institute of Inforcom Research, A*Star for half a year in 2023.
+Qiyu Wei is a Master student of artificial intelligence at the Shanghai University. His research interests include Defect detection, 3D deep learning and Bayesian Optimization. He has worked as a research assistant at the Institute of Inforcom Research, A*Star for half a year in 2023.
 {style="text-align: justify;"}
