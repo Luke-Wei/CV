@@ -26,15 +26,16 @@ bio: My research interests include AI in semiconductor, 3D deep learning and Bay
 
 # Interests to show in About widget
 interests:
-  - 3D deeplearning
+  - Statistical machine learning
   - Bayesian optimisation
+  - Computer Vision
 
 # Education to show in About widget
 education:
   courses:
     - course: MEng 
       institution: Shanghai University
-      year: Expected 2024
+      year: 2024
     - course: BSc
       institution: Nanjing University of Posts and Telecommunications
       year: 2021
