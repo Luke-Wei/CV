@@ -69,5 +69,5 @@ email: 'qywei@shu.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a incoming Ph.D student at University of Manchester. I receive my Master degree from Shanghai University. My research interests include Statistical machine learning, Bayesian Optimization, and Computer Vision. I worked as a research assistant at the Institute of Inforcom Research, A*Star for half a year in 2023.
+I am an incoming Ph.D student at the University of Manchester. I receive my Master degree from Shanghai University. My research interests include Statistical machine learning, Bayesian Optimization, and Computer Vision. I worked as a research assistant at the Institute of Inforcom Research, A*Star for half a year in 2023.
 {style="text-align: justify;"}
