@@ -1,4 +1,6 @@
 My academic homepage.
 Qiyu Wei
 
-update by 23 Feb. 2024
+Supported by Hugo and Netlify.
+
+update by Jun. 2024
