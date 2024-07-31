@@ -33,12 +33,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD 
+      institution: University of Manchester
+      year: 2024-
     - course: MEng 
       institution: Shanghai University
-      year: 2024
+      year: 2021-2024
     - course: BSc
       institution: Nanjing University of Posts and Telecommunications
-      year: 2021
+      year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
