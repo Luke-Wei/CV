@@ -27,7 +27,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Assistant
-          company: A*star I2R
+          company: I2R, A*star 
           company_url: 'https://www.a-star.edu.sg/i2r'
           company_logo: astar
           location: Singapore
@@ -39,8 +39,12 @@ sections:
               * Semi-supervised algorithm in semiconductor defect detection
               * 3D machine learning in semiconductor data
 
+              Supported by SIPGA scholarship.
+
+    
+
         - title: Remote Intern
-          company: NUS ISE
+          company: ISE, NUS 
           company_url: 'https://cde.nus.edu.sg/isem/'
           company_logo: NUS
           location: Singapore
