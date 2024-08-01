@@ -43,11 +43,11 @@ sections:
 
     
 
-        - title: Remote Intern
+        - title: Intern
           company: ISE, NUS 
           company_url: 'https://cde.nus.edu.sg/isem/'
           company_logo: NUS
-          location: Singapore
+          location: Singapore (Remote)
           date_start: '2022-02-01'
           date_end: ''
           description: |2-
