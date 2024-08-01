@@ -25,7 +25,24 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
       items:
+    
+        - title: Intern
+          company: ISE, NUS 
+          company_url: 'https://cde.nus.edu.sg/isem/'
+          company_logo: NUS
+          location: Singapore (Remote)
+          date_start: '2022-02-01'
+          date_end: ''
+          description: |2-
+              Supervised by Dr. Haowei Wang.
+    
+              Research Interests include:
+
+              * Bayesian Optimization.
+
+
         - title: Research Assistant
           company: I2R, A*star 
           company_url: 'https://www.a-star.edu.sg/i2r'
@@ -47,19 +64,7 @@ sections:
 
     
 
-        - title: Intern
-          company: ISE, NUS 
-          company_url: 'https://cde.nus.edu.sg/isem/'
-          company_logo: NUS
-          location: Singapore (Remote)
-          date_start: '2022-02-01'
-          date_end: ''
-          description: |2-
-              SUpervised by Dr. Haowei Wang.
-    
-              Research Interests include:
 
-              * Bayesian Optimization.
  
     design:
       columns: '2'
