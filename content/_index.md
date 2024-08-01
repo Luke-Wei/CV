@@ -34,10 +34,12 @@ sections:
           date_start: '2023-07-01'
           date_end: '2024-01-01'
           description: |2-
+              Supervised by Dr. Xulei Yang.
+
               Research Interests include:
 
-              * Semi-supervised algorithm in semiconductor defect detection
-              * 3D machine learning in semiconductor data
+              * Semi-supervised algorithm in semiconductor defect detection.
+              * 3D machine learning in semiconductor data.
 
               Supported by SIPGA scholarship.
 
@@ -51,9 +53,11 @@ sections:
           date_start: '2022-02-01'
           date_end: ''
           description: |2-
+              SUpervised by Dr. Haowei Wang.
+    
               Research Interests include:
 
-              * Bayesian Optimization
+              * Bayesian Optimization.
  
     design:
       columns: '2'
