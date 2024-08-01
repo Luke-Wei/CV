@@ -18,8 +18,8 @@ role: Incoming Ph.D student.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Shanghai University
-    url: https://sme.shu.edu.cn/
+  - name: University of Manchester
+    url: https://www.cs.manchester.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include AI in semiconductor, 3D deep learning and Bayesian Optimisation.
@@ -68,10 +68,10 @@ social:
     link: uploads/weiqiyu_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'qywei@shu.edu.cn'
+email: 'weiqy412@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a incoming PhD(Computer Science) student at University of Manchester. I receive my Master degree from Shanghai University. My research interests include Statistical machine learning, Bayesian Optimization, and Computer Vision. I worked as a research assistant at the Institute of Inforcom Research, A*Star for half a year in 2023.
+I am an incoming PhD student (Computer Science) at the University of Manchester. I receive my Master degree from Shanghai University. My research interests include Statistical machine learning, Bayesian Optimization, and Computer Vision. I worked as a research assistant (Supported by SIPGA) at the Institute of Infocomm Research, A*Star for half a year in 2023.
 {style="text-align: justify;"}
