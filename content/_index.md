@@ -36,12 +36,14 @@ sections:
           description: |2-
               Supervised by Dr. Xulei Yang.
 
+              Supported by SIPGA scholarship.
+
               Research Interests include:
 
               * Semi-supervised algorithm in semiconductor defect detection.
               * 3D machine learning in semiconductor data.
 
-              Supported by SIPGA scholarship.
+              
 
     
 
