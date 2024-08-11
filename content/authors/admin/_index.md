@@ -22,13 +22,13 @@ organizations:
     url: https://www.cs.manchester.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI in semiconductor, 3D deep learning and Bayesian Optimisation.
+bio: My research interests include AI in Semiconductor, 3D Deep Learning and Bayesian Optimisation.
 
 # Interests to show in About widget
 interests:
-  - Statistical machine learning
-  - Bayesian optimisation
-  - Computer Vision
+  - Statistical Machine Learning
+  - Bayesian Optimization
+  - Deep Learning
 
 # Education to show in About widget
 education:
@@ -73,5 +73,5 @@ email: 'weiqy412@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an incoming PhD student (Computer Science) at the University of Manchester. I receive my Master degree from Shanghai University. My research interests include Statistical machine learning, Bayesian Optimization, and Computer Vision. I worked as a research assistant (Supported by SIPGA) at the Institute of Infocomm Research, A*Star for half a year in 2023.
+I am an incoming PhD student (Computer Science) at the University of Manchester. I receive my Master degree from Shanghai University. My research interests include Statistical Machine Learning, Bayesian Optimization, and Deep Learning. I worked as a research assistant (Supported by SIPGA) at the Institute of Infocomm Research, A*Star for half a year in 2023.
 {style="text-align: justify;"}
