@@ -39,7 +39,7 @@ education:
     - course: MEng 
       institution: Shanghai University
       year: 2021-2024
-    - course: BSc
+    - course: BEng
       institution: Nanjing University of Posts and Telecommunications
       year: 2017-2021
 
