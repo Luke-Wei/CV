@@ -73,5 +73,5 @@ email: 'weiqy412@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an incoming PhD student (Computer Science) at the University of Manchester. I receive my Master degree from Shanghai University. My research interests include Statistical Machine Learning, Bayesian Optimization, and Deep Learning. Prior to my enrollment at UoM, I worked as a Research Assistant (Supported by SIPGA scholarship) at the Institute of Infocomm Research, A*Star, Singapore in 2023.
+I am an incoming PhD student (Computer Science) at the University of Manchester. My research interests include Statistical Machine Learning, Bayesian Optimization, and Deep Learning. Prior to my enrollment at UoM, I earned my Master's degree from Shanghai University. I worked as a Research Assistant (Supported by SIPGA scholarship) at the Institute of Infocomm Research, A*Star, Singapore in 2023. Beyond academics, I enjoy video games, music and sports.
 {style="text-align: justify;"}
