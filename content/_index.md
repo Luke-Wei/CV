@@ -33,8 +33,8 @@ sections:
           company_url: 'https://cde.nus.edu.sg/isem/'
           company_logo: NUS
           location: Singapore (Remote)
-          date_start: '2022-02-01'
-          date_end: ''
+          date_start: '2022-02'
+          date_end: '2024-08'
           description: |2-
               Supervised by Dr. Haowei Wang.
     
@@ -48,8 +48,8 @@ sections:
           company_url: 'https://www.a-star.edu.sg/i2r'
           company_logo: astar
           location: Singapore
-          date_start: '2023-07-01'
-          date_end: '2024-01-01'
+          date_start: '2023-07'
+          date_end: '2024-01'
           description: |2-
               Supervised by Dr. Xulei Yang.
 
