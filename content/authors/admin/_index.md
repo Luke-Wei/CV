@@ -36,7 +36,7 @@ education:
     - course: PhD 
       institution: University of Manchester
       year: 2024-
-    - course: MEng 
+    - course: MSc
       institution: Shanghai University
       year: 2021-2024
     - course: BEng
