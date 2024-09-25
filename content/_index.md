@@ -143,7 +143,7 @@ sections:
           organization: MCM/ICM
           organization_url: https://www.comap.com/contests/mcm-icm
           title: Mathematical Contest In Modeling
-          url: 'https://www.comap.com/contests/mcm-icm'
+          url: 'https://mcm.njupt.edu.cn/2020/0428/c7019a164407/page.htm'
 
 
     design:
